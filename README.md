@@ -1,4 +1,5 @@
-# electron-vue
+# Record
+A software that supports screen recording.With electron,node,vue,FFmepg.
 
 ## Project setup
 ```
